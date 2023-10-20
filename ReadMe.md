@@ -4,6 +4,6 @@
 
 ![CI](https://github.com/DnD-developer/two_week_typescript/actions/workflows/build.yml/badge.svg?branch=dev)
 
-[Условие домашнего задания](https://lk.result.school/pl/teach/control/lesson/view?id=281042817&editMode=0)
+[Условие домашнего задания](https://lk.result.school/teach/control/stream/view/id/735529338)
 
 [GitHubPages](https://dnd-developer.github.io/two_week_typescript/)
