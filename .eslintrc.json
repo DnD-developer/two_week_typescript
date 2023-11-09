@@ -20,8 +20,8 @@
 	},
 	"plugins": ["@typescript-eslint", "only-warn"],
 	"rules": {
-		"no-console": ["error", { "allow": ["warn", "error"] }],
-		//typescript
+		"no-console": ["error", { "allow": ["warn", "error", "log", "info"] }],
+		// typescript
 		"@typescript-eslint/no-var-requires": [0],
 		"@typescript-eslint/no-unused-vars": ["error"],
 		"no-unused-vars": "off",
